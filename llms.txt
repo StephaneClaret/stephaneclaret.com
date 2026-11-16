@@ -1,0 +1,32 @@
+# Stéphane Claret
+
+> Fondateur et dirigeant produit à Bordeaux, France. Plus de vingt-cinq ans de produit logiciel. Construit et livre Inès en production. Disponible pour du conseil, des missions ou un poste de direction produit, avec l'IA en production comme terrain. Mobile en France.
+
+Site d'une page, en français (/) et en anglais (/en/). Contact : contact@stephaneclaret.com.
+
+## Parcours
+
+- Trois entreprises fondées, dont PageOnDemand, un SaaS bootstrappé dirigé dix ans, rentable.
+- CPO de Nfinite (https://nfinite.ai), DSI de GT Solutions (https://gt-solutions.fr), Head of Product chez TEHTRIS (https://tehtris.com).
+
+## Projets en cours
+
+- Inès (https://ines.family) : application de courses du foyer. Liste partagée, stock de la maison en face de chaque produit, courses à plusieurs en direct, scan en rayon, fonctionne hors connexion. En production depuis le 11 avril 2026, en alpha privée avec de vrais foyers. Un seul développeur, avec une IA. Un agent IA normalise les produits saisis, sous arbitrage humain.
+- DrMatch : avec une médecin généraliste, aider les médecins installés à trouver le bon remplaçant, et les remplaçants la bonne mission. Phase d'exploration depuis septembre 2026.
+
+## Liens
+
+- LinkedIn : https://www.linkedin.com/in/stephaneclaret
+- GitHub : https://github.com/StephaneClaret
+- Page en anglais : https://stephaneclaret.com/en/
+
+---
+
+# Stéphane Claret (English)
+
+> Founder and product leader in Bordeaux, France. Twenty-five-plus years in software products. Builds and ships Inès in production. Available for consulting, assignments or a product leadership role, with AI in production as his ground. Mobile across France.
+
+- Three companies founded, including PageOnDemand, a bootstrapped SaaS run for ten years, profitable. Then CPO at Nfinite, CIO at GT Solutions, Head of Product at TEHTRIS.
+- Inès (https://ines.family): the household grocery app, in production since 11 April 2026, in private alpha with real households. One developer, with an AI.
+- DrMatch: with a general practitioner, helping established doctors find the right locum, and locums the right assignment. Exploration phase since September 2026.
+- Contact: contact@stephaneclaret.com
